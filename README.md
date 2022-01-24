@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <a href="#" rel="yogiektambakboyo">![](https://raw.githubusercontent.com/yogiektambakboyo/yogiaditya_profile/main/banner.jpg)</a>
 
