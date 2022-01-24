@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-### I'm Yogi Aditya a Software Engineer
+<a href="#" rel="yogiektambakboyo">![](https://raw.githubusercontent.com/yogiektambakboyo/yogiaditya_profile/main/banner.jpg)</a>
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=yogiektambakboyo&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
 
